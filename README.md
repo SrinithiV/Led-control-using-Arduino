@@ -84,9 +84,9 @@ void loop()
 ```
 
 ## OUTPUT
-####LED OFF 
+#### LED OFF 
 ![p11](https://github.com/SrinithiV/Led-control-using-Arduino/assets/118722030/b5c961ef-1af4-4901-bafd-e26a263bf072)
-####LED ON
+#### LED ON
 ![p12](https://github.com/SrinithiV/Led-control-using-Arduino/assets/118722030/cfa0e647-4a44-46ab-86c6-0a993debb357)
 
 ## RESULT
